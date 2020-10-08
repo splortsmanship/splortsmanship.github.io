@@ -99,12 +99,89 @@
         * Wild Low: Blood Winner: In the Blood Bath each season, these teams must each give Stars to the team that finished first in their division
         * Mild High: Blood Donor: In the Blood Bath each season, these teams will each donate Stars to an opponent that finished behind them in the standings
         * Mild Low: Blood Thief: In the Blood Bath each season, these teams will each steal Stars from an opponent who finished ahead of them in the standings
+    * A new weather type is introduced: Blooddrain. This has a chance to siphon stars from one player on one team to another player on the opposing team during a game
 * The Idol system is introduced
     * Players are chosen as idols by fans, and the 20 most idolized players are added to a leaderboard. The top three are separated by a dotted red line. Idols can be changed for 200 coins
         * Peanut Theory: Due to the messages relayed via The Shelled One prior to the release of election results the last two seasons, this theory states that fans can atone for displeasing the Blaseball gods by getting the three players whose names were changed from Dan/Daniel to “Peanut” (Peanut Bong, Peanutiel Duffy, and Peanut Holloway) to the top three idol slots. This is at least partially confirmed as of Season Seven
     * Idols can earn their fans coins with the purchase of pendants that grant bonuses based on hits/home runs scored by batters, or shutouts/strikes thrown by pitchers. These pendants can stack, and can be upgraded in the shop
- 
-         
+    
+## Season Six
+
+* A Moist Talkers fan discovers that dead players can be selected as idols if their player IDs are obtained, and the Moist Talkers collaborate with the Garages (and later the Flowers) to idolize Jaylen Hotdogfingers en masse, hoping to get them to 14th place in the idol leaderboards so that they would be the target of the “Lottery Pick” blessings that grants the 14th most idolized player in the league to the team that receives the blessing. The community as a whole backs this push, and it is coined Necromancy
+* The Mexico City Wild Wings “sue” the Commissioner for putting them in the Mild League rather than the Wild League. This has several in-joke type results, the most notable examples being the team being labelled as the “flavoured” pick rather than “favoured” when reporting odds, and the team being renamed the “Mexico City Mild Wings”
+* The season ends with Jessica Telephone, Nagomi McDaniel, and Peanut Bong above the red line (top 3). The Shelled One returns
+    * NO HALF MEASURES / DO NOT PATRONIZE ME / WHO IS TELEPHONE  / MCDANIEL? / STRIKE THREE / ONE MORE AND YOU ARE OUT
+        * Telephone and McDaniel are given the status effect “shelled”, which is a permanent effect with the description “A shelled player is shelled.” Peanut Bong is spared, proving the Peanut Theory is at least partially correct. In the postseason, this is proven to skip over the shelled player in the batting/pitching order
+* The Baltimore Crabs claim their first championship title
+
+### Season Six Election
+
+* The Enhanced Party Time decree is passed, causing teams statistically eliminated from the postseason to enter “Partytime”, during which their players receive random stat boosts during games that that team plays. This is permanent from here on out, much like Eat the Rich
+* The Garages win the Lottery Pick blessing as planned, with Jaylen Hotdogfingers in the 14th idol slot. Hotdogfingers is revived, and Mike Townsend is “banished to the shadows.” 
+    * Blessing flavour text reads as follows: FIRE AND SMOKE / AN EGG / HATCHING / JAYLEN HOTDOGFINGERS RETURNS / MIKE TOWNSEND RETREATS TO SHADOWS
+        * "An egg" can be assumed to be in reference to the official statement that players come from "the egg farm," with higher tier patrons on Patreon being able to add names to a the "Naming Pool, the platonic body that Irrigates the Field of Eggs" 
+    * Upon returning, Hotdogfingers has two status effects: “Returned” and “Debted”
+    * The Peanut returns once again 18 minutes after election results go live, stating: HOTDOGFINGERS? / AMUSING / THE LEDGER MUST BE BALANCED / DEBTS PAID / GOOD LUCK
+    
+## Season Seven
+
+* On season 7, day 5, Jaylen Hotdogfingers pitches their first game (against the Kansas City Breath Mints) after being revived. During this game, Jaylen hits 3 opposing batters with pitches, the first of whom is Dickerson Morse. This gives them the weekly (9 game days) modifier “Unstable.” Jaylen hits more batters in their next two games as well. This did not have any noticeable effect on the players. These hits are colloquially named “beanballs”
+* Ruby Tuesday
+    * On Day 30 (occurring on the Tuesday of that season) in the Seattle Garages’ game against the Hades Tigers, Jaylen hits Mclaughlin Scorpler, Moody Cookbook, and Zion Aliciakeys of the Tigers with pitches. All are given the Unstable modifier
+    * On Day 32, during the Hades Tigers’ Solar Eclipse game against the Canada Moist Talkers, Moody Cookbook is incinerated in the top of the 3rd inning. The game ticker displays new text not previously seen during other incinerations:
+        * A Debt was collected. Rogue Umpire incinerated Hades Tigers hitter Moody Cookbook! Replaced by Carmelo Plums. The instability spreads to the Moist Talkers’ Elijah Bates
+            * NOTE: The phrasing “spreads” is later changed to “chains”
+    * Bates is incinerated in the 6th inning, spreading the instability to the Hades Tigers’ Yazmin Mason. Scorpler is incinerated in the 7th inning, spreading the instability to the Canada Moist Talkers’ Anotnio Wallace
+        * Returned now states that Hotdogfingers has a random chance of being returned to the grave randomly at the end of any given season
+    * The incinerations continue in the Day 33 game between the two teams (notably, both games were Solar Eclipse games. This is the only weather that incinerations of this nature occur in, despite their differences from normal incinerations). Notably, Kiki Familia (the replacement for Elijah Bates) is incinerated in this game despite not having the Unstable modifier, marking Familia's as the new record for shortest ILB career at 5.1 innings
+    * Hotdogfingers continues to cause instability/incinerations outside of this event. 12/14 incinerations this season are debt collections
+* On Day 63, Jessica Telephone is freed from her peanut during Lots of Birds weather, the ticker stating that the birds pecked her free
+    * The Shelled One reappears, simply stating “WAIT”
+* Snackrifice
+    * The Unlimited Tacos propose a plan to get all 5 of their pitchers shelled by getting them to the top of the idol board - the “ominous red line” now sitting beneath the 10th spot in the ranking rather than the 3rd
+    * After the final game of the season, The Shelled One appears again
+        * WOW / WOWW / WOWWW / SERIOUSLY / WILD / MILD / WILD / MILD / WILD / WOW / YES / THAT IS MORE LIKE IT. / HAVE YOU EVER SEEN SUCH TALENT? / TOP 3 WOULD BE BETTER THOUGH
+            * This appears to be in response to the 3 Peanut-named players finishing in the Top 10 on the idol board. Those players now have the status effect Honey Roasted
+        * WHAT IS THIS THOUGH? / A SHOW OF UNITY? / YOU WITHHOLD YOUR LABOR? / YOU THINK THAT GIVES YOU POWER? / PITY
+    * The Snackrifice proves a success, leaving all the Tacos’ pitchers Shelled
+    * The Monitor - a giant, floating squid - makes its first appearance after The Shelled One's message
+        * who was that / is it an egg / never ate an egg before / where is hotdogfingers / followed hotdogfingers here / from the hall / from the trench / i am gonna watch / see if that egg comes back
+            * All fans are given 10,000 peanuts
+* The Mexico City Mild Wings take their first championship, and reclaim their original Wild Wings name
        
+### Season Seven Election
 
+* For the first time, The Monitor appears before election results are released rather than The Shelled One
+    * that egg come back yet? / wonder what it tastes like /  hey what is that you got there? / tiny eggs? / give em to me / i will make you a deal / wanna see your friends?
+        * The Hall of Flame appears, listing deceased players and allowing fans to pay tribute to them with peanuts, with the players receiving the most tribute moving up the list. For a time, a dotted blue line appears beneath the 14th slot in the Hall
+            * This leads to speculation that there may be a team of revived players in the future, since there are 14 players per team
+* The Bless Off decree passes, preventing the top 4 teams of the season from receiving blessings in the current election, these teams being the Baltimore Crabs, the Kansas City Breath Mints, the Charleston Shoe Thieves, and the Breckenridge Jazz Hands
+* Two more players retreat to the shadows due to blessings. They do not appear in the Hall of Flame, implying that players in the shadows are not dead
+* The Miami Dalé receive the The Iffey Jr. blessing, with Raúl Leal receiving the item. Leal’s stats are minimized, but the team is protected from incinerations
 
+## Season Eight
+
+* Jaylen Hotdogfingers’ Debted status effect is changed to Refinanced Debt. Rather than causing the Unstable modifier, Jaylen’s pitches cause the Flickering weekly effect, which causes players to be much more likely to be Feedbacked during Feedback weather
+* As a result of the Snackrifice, the Unlimited Tacos gain a new pitcher in the form of the Pitching Machine (or PM). PM is subject to the same effects as regular players, including being able to siphon star rankings from other players during Blooddrain weather, which happens twice over the course of the season. It remains on the team even after Sexton Wheerer is pecked free on Day 47. Ironically, PM ends up Shelled after the main season, leaving Wheerer as the only Tacos pitcher
+* Microphone icons appear beside the 6th, 11th, and 18th places on the idol leaderboard
+    * At the end of the regular season, Jaylen Hotdogfingers, NaN (Unlimited Tacos), and Sixpack Dogwalker (Hawaii Fridays) occupy these slots after following clues from The Microphone on Twitter (this is theorized to have ties to the flavour text for the Interviews blessing: “The Microphone lifts”). NaN and Dogwalker both receive a permanent Flickering modifier, as well as the Receiver modifier
+        * After acquiring the Receiver modifier, the Pregame Ritual fields of NaN and Dogwalker’s player pages change rapidly: “hi friends / it is Wyatt / I have a plan”
+            * “Wyatt” is generally assumed to be the original Wyatt Mason
+* After the 32nd game day of the season, the Monitor reappears
+    * that egg still not back? / shame / you like seeing your friends? / you can see em all you want / just keep those eggs coming / hurry up / this one at a time thing is killing me / shovel em in there
+        * A slider for paying tribute is added, rather than having to pay tribute with peanuts one by one
+* On Day 94, a Rogue Umpire attempts to incinerate Dalé bitter Beck Whitney. However, due to Raúl Leal’s possession of The Iffey Jr., Whitney survives. Additionally, the incineration is redirected back at the Rogue Umpire, who is incinerated instead
+* At the end of the regular season, The Shelled One made another appearance to admonish fans for their reaction to the Hall of Flame
+    * IT IS COMPLETE / WAIT / WHAT ARE YOU DOING / I GIVE YOU SNACKS / AND YOU WASTE THEM? / STOP IT AT ONCE / SERIOUSLY / IT IS COMPLETE
+        * Following this message, the Monitor appears again
+            * hey wait come back / damn / what happened to your friends / are they eggs now? / hmm / still hungry
+                * Theories arise stating that the Monitor may eat Shelled players
+* The Baltimore Crabs claim their second ILB championship title
+
+### Season Eight Election
+
+* The Shelled One appears before election results go live
+    * YOU FOOLS / SERIOUSLY? / SERIOUSLY / 100 MILLION SNACKS / WASTED / YOU FOOLS / THAT IS IT / STRIKE FOUR / YOU ARE OUT / SEE YOU SOON
+        * This contact comes shortly after another weeklong siesta is announced
+* The Wild Cards decree passes, stating that every season from hereon out, a random team from each subleague will leave Partytime to become the 5th playoff team. A best of three Wild Card series will occur on Fridays after the main season concludes
+* Ron Monstera of the Seattle Garages receives the benefits of the Forever Physical blessing, granting him protection from incineration. Monstera is then immediately incinerated anyways due to the New Kid blessing, Monstera being the least idolized player on the team
