@@ -50,6 +50,60 @@
     * SO ABOUT THE PEANUTS / THE BOOK WAS STRIKE ONE / THE FRAUD WAS STRIKE TWO / YOU WILL LEARN DISCIPLINE / PEANUTS / GET YOUR PEANUTS / WHILE YOU STILL CAN
         * After this, the price of a bucket of peanuts drops to 1,000 coins, still at a 1:1 ratio
 * The Hades Tigers win their first championship
+
+### Season Three Election
+
+* Two decrees pass: Interviews and Eat the Rich
+    * “Interviews” reveals some stats about each player, as well as their Current Vibe (which fluctuates between games, and seems to have some bearing on player performance) and some theoretically benign information such as coffee preference and pregame ritual. This information is found on player pages
+        * Spacetime tears over Los Angeles. The LA Tacos become the Unlimited Tacos, and all of their players are renamed Wyatt Mason
+        * The Grand Unslam is cited in flavour text as having “weakened the bridge”
+        * Flavour text also includes the phrase “The Microphone lifts”
+        * Feedback weather is introduced as a new weather type, during which players will occasionally switch teams with a player from the team they’re opposing
+    * “Eat the Rich” redistributes wealth from the top 1% of players to the other 99%, betting that 99% 193 coins each. Flavour text implies that it may happen again. (It does)
+* Many blessings that involve player theft/banishment pass, the most notable of which see Hawaii Fridays player Nagomi McDaniels stolen by the Jazz Hands before being immediately stolen once more by the Crabs
+
+## Siesta
+
+* The Blaseball site enters a siesta lasting two weeks in order to perform maintenance and site stabilization
+* Wyatt Masons begin reverting back to their previous names, leading some to theorize that the “Wyatt Masoning” was a site error. As of Season Eight, this event has either been revealed to have been intentional or simply incorporated into the lore nonetheless
+
+## Season Four
+
+* The Shelled One returns shortly before Season Four begins
+    * ARE YOU RESTED? / ARE YOU READY? / I HAVE HEARD YOU / TIME TO LISTEN
+* Further text is revealed in the Book, and the Book also receives its second ever edit (the first being the change from “splortsmanship, splortsmanship is dead” after its abuse in the discord server during season two to “splortsmanship, splortsmanship is back”), and the text indicating that if we as fans displease the Blaseball gods, we must atone by eating one million peanuts, is crossed out and the text “STRIKE TWO” is added
+* The “Waveback Event” occurs on Friday of this season, caused by an onslaught of user login issues that results in the servers being rolled back several Blaseball days. Notably, this also rolls back the incineration of Hawaii Fridays hitter Thomas England. England was replaced by Sixpack Dogwalker. After the rollback, Sixpack is still the name on the Fridays’ roster, but their stats are those of England, and they carry the item “Bangers and Smash”
+* On Day 108, in the fourth of five semifinal matches between the Millenials and the Firefighters, Thomas Dracaena of the Millenials hits a ground out to Edric Tosser of the Firefighters and play stops for over twenty minutes. The game ticker reads only the ground out notification
+* The Hades Tigers claim their second Championship title
+
+### Season Four Election
+
+* Before election results are revealed, The Shelled One makes an appearance
+    * IT IS TOO LOUD / QUIET / QUIET THEM / YOU LOOKED TOO CLOSE / WHERE IS YOUR FAITH
+        * “It is too loud” may have been a commentary on the immense volume of user traffic that hit the site as fans refreshed the elections page, causing the site to fail to even load for many users due to server strain
+* Two decrees pass: Targeted Shame and Alternate Reality
+    * Targeted Shame affects the Hades Tigers, Chicago Firefighters, New York Millenials, and Breckinridge Jazz Hands. This causes any game that they are shamed during to carry the runs scored against them during the shame period over to their next game as negative runs. This effect lasts for the duration of Season Five
+    * Alternate Reality swaps two players on each team (one pitcher, one hitter) with alternate versions of themselves with rerolled stats. These players gain the Alternate Reality modifier
+
+## Season Five
+
+* A new weather type is introduced: Reverb. It has a chance to do one of four things: shuffle an entire roster (which can result in pitchers becoming hitters and vice versa), shuffling batting lineups, shuffling pitching rotations, or causing a single player to reverberate and have a small chance to be up for two at bats in a row
+* Chicago Firefighters claim their first championship title 
+
+### Season Five Election
+
+* The High Filter decree is passed, resulting in leagues/divisions changing and teams being shuffled, as well as the Blood Bath being instated and occurring once per season (NOTE: as of the passing of the Enhanced Party Time decree in Season Six, devs have confirmed that the Blood Bath will not occur as originally intended, if at all. As of writing this note, it has never occurred. The Commissioner explained via Twitter that this was due to "contractor issues." Despite its non-implementation, the modifiers are recorded here as originally worded for posterity)
+    * The new leagues are Wild and Mild, and the new divisions are High and Low (e.g.: the Canada Moist Talkers fall into the Mild High division)
+    * The Blood Bath has different effects on each division, with each team gaining a permanent modifier
+        * Wild High: Blood Pity: In the Blood Bath each season, these teams must each give Stars to the team that finished last in their division
+        * Wild Low: Blood Winner: In the Blood Bath each season, these teams must each give Stars to the team that finished first in their division
+        * Mild High: Blood Donor: In the Blood Bath each season, these teams will each donate Stars to an opponent that finished behind them in the standings
+        * Mild Low: Blood Thief: In the Blood Bath each season, these teams will each steal Stars from an opponent who finished ahead of them in the standings
+* The Idol system is introduced
+    * Players are chosen as idols by fans, and the 20 most idolized players are added to a leaderboard. The top three are separated by a dotted red line. Idols can be changed for 200 coins
+        * Peanut Theory: Due to the messages relayed via The Shelled One prior to the release of election results the last two seasons, this theory states that fans can atone for displeasing the Blaseball gods by getting the three players whose names were changed from Dan/Daniel to “Peanut” (Peanut Bong, Peanutiel Duffy, and Peanut Holloway) to the top three idol slots. This is at least partially confirmed as of Season Seven
+    * Idols can earn their fans coins with the purchase of pendants that grant bonuses based on hits/home runs scored by batters, or shutouts/strikes thrown by pitchers. These pendants can stack, and can be upgraded in the shop
+ 
          
        
 
