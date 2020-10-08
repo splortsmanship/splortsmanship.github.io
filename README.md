@@ -1,1 +1,1 @@
-# splortsmanship.github.io
+# Blaseball: A Timeline
