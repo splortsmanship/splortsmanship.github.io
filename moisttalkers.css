@@ -50,6 +50,7 @@ table  {
 th, td {
   padding: 15px;
 }
+tr:nth-child(even) {background-color: #a2afb0;}
 #toc_container {
     margin: auto;
     background: black none repeat scroll 0 0;
