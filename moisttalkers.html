@@ -24,17 +24,12 @@
       <div style="text-align: center;">
         <div style="display: inline-block; text-align: left;">
           <h2>Season One</h2>
-            <script>
-    function myFunction() {
-      var x = document.getElementByID(y);
-      if (x.style.display === "block") {
-        x.style.display = "none";
-      } else {
-        x.style.display = "block";
-      }
-    }
-  </script>
-          <button onclick="myFunction(y='rosterone')">Show/Hide Season Roster</button>
+          <script>
+            function ShowDiv() {
+              document.getElementById(y).style.display = "";
+            }
+          </script>
+          <input type="button" name="Show/Hide Season Roster" onclick="ShowDiv("rosterone")/>
           <div id="rosterone" style="display: none";>
           <table>
             <tr>
