@@ -14,6 +14,16 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="moisttalkers.css">
   </head>
+  <script>
+    function myFunction() {
+      var x = document.getElementByID(y);
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+  </script>
   <body>
     <header>
       <h1>Canada Moist Talkers</h1>
@@ -24,10 +34,86 @@
       <div style="text-align: center;">
         <div style="display: inline-block; text-align: left;">
           <h2>Season One</h2>
+          <button onclick="myFunction(y='rosterone')">Show/Hide Season Roster</button>
+          <table class="roster" id="rosterone">
+            <tr>
+              <th colspan="2">Lineup<th>
+            </tr>
+            <tr>
+              <td>Kennedy Alstott</td>
+              <td>★★★</td>
+            </tr>
+            <tr>
+              <td>Tyler Violet</td>
+              <td>★½</td>
+            </tr>
+            <tr>
+              <td>Elijah Bates</td>
+              <td>★★★</td>
+            </tr>
+            <tr>
+              <td>Trevino Merritt</td>
+              <td>★★★</td>
+            </tr>
+            <tr>
+              <td>Joe Voorhees</td>
+              <td>★★</td>
+            </tr>
+            <tr>
+              <td>Jesús Koch</td>
+              <td>★★★</td>
+            </tr>
+            <tr>
+              <td>Eugenia Garbage</td>
+              <td>★★★</td>
+            </tr>
+            <tr>
+              <td>Richmond Harrison</td>
+              <td>½</td>
+            </tr>
+            <tr>
+              <td>Hobbs Cain</td>
+              <td>★★</td>
+            </tr>
+            <tr>
+              <th colspan="2">Rotation</th>
+            </tr>
+            <tr>
+              <td>Oliver Notarobot</td>
+              <td>½</td>
+            </tr>
+            <tr>
+              <td>Greer Lott</td>
+              <td>★½</td>
+            </tr>
+            <tr>
+              <td>Jenkins Good</td>
+              <td>★★★½</td>
+            </tr>
+            <tr>
+              <td>Ortiz Morse</td>
+              <td>½</td>
+            </tr>
+            <tr>
+              <td>Mooney Doctor</td>
+              <td>★★½</td>
+            </tr>
+          </table>
           <br>
-          <p>Test</p>
+          <p><em>SEASON RESULTS:</em> Finished third in the Chaotic Evil division, did not make postseason</p></br>
+          <p>
         </div>
       </div>
     </main>
+    <footer>
+      <br>
+      <hr style="height:5px;border-width:0;color:rgb(178, 179, 181);background-color:rgb(178, 179, 181)">
+      <br>
+         <p>Have comments? Suggestions? Wanna follow updates to the site? Find me on <a href="https://twitter.com/angrybookseller">Twitter</a>!
+            <br>
+            <br>
+            If you're interested in helping me cover maintenance costs, or simply want to fuel some late-night updates, consider donating to my <a href="https://ko-fi.com/pigeon4242">Ko-fi</a>! Your support is hugely appreciated.
+         </p>
+    </footer>
   </body>
   </html>
