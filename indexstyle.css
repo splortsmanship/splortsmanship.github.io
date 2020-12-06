@@ -107,3 +107,6 @@ body {background-color: black;}
   margin: 0 auto;
   justify-content: center;
 }
+#teams h3 {
+  font-size: 150%;
+}
