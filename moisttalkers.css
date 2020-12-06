@@ -46,6 +46,7 @@ table  {
   border-radius: 5px;
   max-width: 800px;
   font-family: "Open Sans",monospace,sans-serif;
+  width: 50%;
 }
 th, td {
   padding: 15px;
