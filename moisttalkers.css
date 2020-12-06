@@ -39,10 +39,10 @@ li   {
   line-height: 1.5;
 }
 table  {
-  color: white;
+  color: #3B97D3;
   font-weight: 700;
-  background: black; none repeat scroll 0 0;
-  border: 2px solid white;
+  background: #E5F4F5; none repeat scroll 0 0;
+  border: 2px solid #035597;
   border-radius: 5px;
   max-width: 800px;
   font-family: "Open Sans",monospace,sans-serif;
