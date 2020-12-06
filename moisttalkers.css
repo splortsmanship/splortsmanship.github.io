@@ -85,3 +85,6 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+.roster {
+  display: none;
+}
