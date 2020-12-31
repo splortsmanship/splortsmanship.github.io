@@ -1,0 +1,112 @@
+body {background-color: black;}
+         div {
+         width: 950px;
+         padding: 10px;
+         margin: 5px;
+         background-color: #6c757d
+         }
+         h1   {
+         color: white;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         text-align: center;
+         font-family: "Lora",monospace,serif;
+         font-weight: 700;
+         }
+         h2   {
+         color: white;
+         font-family: "Lora",monospace,serif;
+         font-weight: 700;
+         box-sizing: border-box;
+         border-radius: 5px;
+         background: #6c757d;
+         padding: 20px;
+         width: 400px;
+         flex-direction: column;
+         justify-content: center;
+         text-align: center;
+         margin: auto;
+         }
+         h3   {
+         color: white;
+         margin: auto;
+         text-align: center;
+         font-family: "Lora",monospace,serif;
+         font-weight: 700;
+         letter-spacing: 2px;
+         line-height: 1.5;
+         }
+         li   {
+         color: rgb(178, 179, 181);
+         max-width: 800px;
+         font-family: "Open Sans",monospace,sans-serif;
+         letter-spacing: 1px;
+         line-height: 1.5;
+         }
+         p   {
+         color: rgb(178, 179, 181);
+         max-width: 800px;
+         font-family: "Open Sans",monospace,sans-serif;
+         text-align: center;
+         margin: auto;
+         font-weight: 700;
+         letter-spacing: 2px;
+         line-height: 1.5;
+         }
+         table  {
+         color: white;
+         font-weight: 700;
+         background: black; none repeat scroll 0 0;
+         border: 2px solid white;
+         border-radius: 5px;
+         max-width: 800px;
+         font-family: "Open Sans",monospace,sans-serif;
+         }
+         th, td {
+         padding: 15px;
+         }
+         tr:nth-child(even) {background-color: rgb(178, 179, 181);}
+         #toc_container {
+         margin: auto;
+         background: black none repeat scroll 0 0;
+         border: 4px solid #6c757d;
+         border-radius: 5px;
+         display: table;
+         font-size: 95%;
+         margin-bottom: 1em;
+         padding: 20px;
+         width: auto;
+         }
+         .toc_title {
+         font-weight: 700;
+         text-align: center;
+         }
+         #toc_container li, #toc_container ul, #toc_container ul li{
+         list-style: outside none none !important;
+         }
+         a:link {
+         color: white;
+         background-color: transparent;
+         text-decoration: none;
+         }
+         a:visited {
+         color: white;
+         background-color: transparent;
+         text-decoration: none;
+         }
+         a:hover {
+         color: #5988ff;
+         background-color: transparent;
+         text-decoration: underline;
+         }
+#teams {
+  width: 50%;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 0 auto;
+  justify-content: center;
+}
+#teams h3 {
+  font-size: 200%;
+}
