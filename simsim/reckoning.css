@@ -1,6 +1,6 @@
 body {background-color: #F49CBB;}
 h1   {
-  color: #55C1FF;
+  color: #2f6c8f;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -73,12 +73,12 @@ tr:nth-child(even) {background-color: #a2afb0;}
     list-style: outside none none !important;
 }
 a:link {
-  color: #55C1FF;
+  color: #2f6c8f;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: white;
+  color: #2f6c8f;
   background-color: transparent;
   text-decoration: none;
 }
