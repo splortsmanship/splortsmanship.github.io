@@ -1,6 +1,6 @@
-body {background-color: #E5F4F5;}
+body {background-color: #F49CBB;}
 h1   {
-  color: #ED1C24;
+  color: #55C1FF;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9,7 +9,7 @@ h1   {
   font-weight: 700;
 }
 h2   {
-  color: #035597;
+  color: #880D1E;
   font-family: "Lora",monospace,serif;
   font-weight: 700;
   text-align: center;
@@ -29,7 +29,7 @@ li   {
   line-height: 1.5;
 }
   p   {
-  color: #3B97D3;
+  color: #DD2D4A;
   max-width: 800px;
   font-family: "Open Sans",monospace,sans-serif;
   text-align: center;
@@ -73,7 +73,7 @@ tr:nth-child(even) {background-color: #a2afb0;}
     list-style: outside none none !important;
 }
 a:link {
-  color: #ED1C24;
+  color: #55C1FF;
   background-color: transparent;
   text-decoration: none;
 }
@@ -83,7 +83,7 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #5988ff;
+  color: #DD2D4A;
   background-color: transparent;
   text-decoration: underline;
 }
