@@ -28,7 +28,7 @@
   font-size: 17px;
 }
 @media screen and (max-width: 600px) {
-  .topnav a, .topnav input[type=text] {
+  .topnav a, .topnav input[type=text], .search-container button {
     float: none;
     display: block;
     text-align: left;
