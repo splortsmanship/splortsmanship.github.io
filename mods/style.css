@@ -75,3 +75,10 @@ h1 {
   padding: 20px;
   text-align: center;
 }
+a {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+  color: #ff4838;
+}
