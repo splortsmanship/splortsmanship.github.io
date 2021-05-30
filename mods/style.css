@@ -1,8 +1,13 @@
-.header {
-  padding: 60px;
-  text-align: left;
-  background: #FF4838;
-  color: #162B32;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14pt;
+.topnav {
+  overflow: hidden;
+  background-color: #162b32;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: 162b32;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
