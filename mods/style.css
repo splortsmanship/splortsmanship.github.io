@@ -40,6 +40,9 @@
     border: 1px solid #ccc;
   }
 }
+.topnav .search-container button:hover {
+  background: #ff4838;
+}
 body {
   background-color: #162B32;
 }
