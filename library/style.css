@@ -86,3 +86,9 @@ a {
 a:hover {
   color: #ff4838;
 }
+summary {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+  
