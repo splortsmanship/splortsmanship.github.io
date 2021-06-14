@@ -92,7 +92,8 @@ details > summary {
   cursor: pointer;
 }
 details > p {
-  background-color: #ff4838;
+  background-color: #ffffff;
+  color: 162B32;
   font-family: Arial, Helvetica, sans-serif;
   padding: 4px;
   margin: 0;
