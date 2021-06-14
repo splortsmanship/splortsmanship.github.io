@@ -66,6 +66,10 @@ h1 {
   color: #ffffff;
   text-align: center;
 }
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff
+}
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
