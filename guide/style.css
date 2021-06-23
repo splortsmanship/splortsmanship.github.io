@@ -59,3 +59,9 @@ a {
 a:hover {
   color: #ff4838;
 }
+
+.info {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
