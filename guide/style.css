@@ -104,3 +104,14 @@ h3 {
 .meta {
   text-align: center;
 }
+
+details > summary {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+details > p {
+  padding: 4px;
+  margin: 0;
+}
