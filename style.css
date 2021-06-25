@@ -1,0 +1,106 @@
+.sidenav {
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #162B32;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: 878C8F;
+  color: #FFFFFF;
+  display: block;
+}
+
+.sidenav a:hover {
+  background-color: #ff4838;
+  color: #FFFFFF;
+}
+
+.sidenav a.active {
+  background-color: #ff4838;
+}
+
+.main {
+  margin-left: 160px;
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+body {
+  background-color: #162B32;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff
+}
+
+a {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+  color: #ff4838;
+}
+
+.info {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+figcaption a {
+  color: #FFFFFF;
+}
+
+.box {
+  width: 50%;
+  border: 10px solid #ff4838;
+  padding: 10px;
+  margin: auto;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+.meta {
+  text-align: center;
+}
