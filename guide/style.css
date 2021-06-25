@@ -94,3 +94,9 @@ figcaption a {
   padding: 10px;
   margin: auto;
 }
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
