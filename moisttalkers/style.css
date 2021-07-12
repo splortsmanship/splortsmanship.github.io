@@ -47,9 +47,9 @@ p {
 }
 .info {
   margin: auto;
-  width: 30%;
+  width: 35%;
   padding: 10px;
-  border: 5px solid #FFFFFF;
+  border: 2px solid #FFFFFF;
 }
 a {
   text-decoration: none;
