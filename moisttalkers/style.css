@@ -90,7 +90,7 @@ td {
     display: flex;
     flex-wrap: wrap;
 }
-@media (max-width: 1000px) {
+@media only screen and (max-width: 1000px) {
   .info {
     width: 90%;
   }
