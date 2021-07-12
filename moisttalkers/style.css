@@ -52,3 +52,6 @@ p {
 .player {
   background-color: rgba(30,30,30,.6392156862745098);
 }
+a {
+  text-decoration: none;
+}
