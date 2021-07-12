@@ -42,7 +42,8 @@ h1 {
 }
 p {
   font-family: Arial, Helvetica, sans-serif;
-  color: #ffffff
+  color: #ffffff;
+  font-size: 14px;
 }
 .info {
   margin: auto;
