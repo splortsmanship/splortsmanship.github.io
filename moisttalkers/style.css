@@ -1,6 +1,6 @@
 .topnav {
   overflow: hidden;
-  background-color: #878C8F;
+  background-color: #000000;
 }
 .topnav a {
   float: left;
@@ -12,11 +12,11 @@
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: #ff4838;
+  background-color: rgba(30,30,30,.6392156862745098);
   color: #ffffff;
 }
 .topnav a.active {
-  background-color: #ff4838;
+  background-color: rgba(30,30,30,.6392156862745098);
   color: white;
 }
 @media screen and (max-width: 600px) {
