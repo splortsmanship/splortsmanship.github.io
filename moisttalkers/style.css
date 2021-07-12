@@ -56,7 +56,7 @@ a {
   color: #FFFFFF;
 }
 a:hover {
-  text-decoration: underline;
+  color: #FF0000;
 }
 td {
   width: 50%;
