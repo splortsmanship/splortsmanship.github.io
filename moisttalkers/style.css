@@ -57,9 +57,12 @@ p {
 a {
   text-decoration: none;
   color: #FFFFFF;
+  float: left;
+  display: block;
+  text-align: center;
 }
 a:hover {
-  color: #FF0000;
+  background-color: rgba(30,30,30,.6392156862745098);
 }
 td {
   width: 50%;
