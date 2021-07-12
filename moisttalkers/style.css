@@ -31,9 +31,6 @@
   .topnav input[type=text] {
     border: 1px solid #ccc;
   }
-  .info {
-    width: 100%;
-  }
 }
 body {
   background-color: #000000;
@@ -50,7 +47,7 @@ p {
 }
 .info {
   margin: auto;
-  width: 60%;
+  width: 50%;
   padding: 10px;
   border: 2px solid #FFFFFF;
 }
