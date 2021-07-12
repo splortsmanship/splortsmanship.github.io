@@ -44,13 +44,6 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   color: #ffffff
 }
-a {
-  color: #ffffff;
-  font-family: Arial, Helvetica, sans-serif;
-}
-a:hover {
-  color: #ff4838;
-}
 .info {
   margin: auto;
   width: 50%;
