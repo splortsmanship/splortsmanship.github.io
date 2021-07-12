@@ -1,0 +1,62 @@
+.topnav {
+  overflow: hidden;
+  background-color: #878C8F;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ff4838;
+  color: #ffffff;
+}
+.topnav a.active {
+  background-color: #ff4838;
+  color: white;
+}
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav input[type=text], .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
+body {
+  background-color: #162B32;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff
+}
+a {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+  color: #ff4838;
+}
+.info {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+.main {
+  margin-left: 160px;
+  padding: 0px 10px;
+}
