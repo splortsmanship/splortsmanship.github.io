@@ -31,6 +31,9 @@
   .topnav input[type=text] {
     border: 1px solid #ccc;
   }
+  .info {
+    width: 100%;
+  }
 }
 body {
   background-color: #000000;
