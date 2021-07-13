@@ -95,3 +95,8 @@ td {
     width: 45%;
   }
 }
+details > summary {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
