@@ -100,3 +100,8 @@ details > summary {
   font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
 }
+details > p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  font-size: 17px;
+}
