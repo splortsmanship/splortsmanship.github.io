@@ -15,7 +15,18 @@
   overflow: hidden;
 }
 
-.frontpage:before, 
+.frontpage:before {
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  content: '';
+  left: calc(33.3% - 5.3px);
+  width: calc(33.3% + 10.7px);
+  border-left: 1px solid #DADCE0;
+  border-right: 1px solid #DADCE0;
+}
+
 .frontpage:after {
   position: absolute;
   top: 0;
