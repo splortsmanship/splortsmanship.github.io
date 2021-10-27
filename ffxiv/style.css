@@ -114,11 +114,26 @@ details > p {
   padding: 4px;
   margin: 0;
 }
-.column {
+.columnlt {
   float: left;
   width: 50%;
+  border-style: none solid solid none;
 }
-
+.columnlb {
+  float: left;
+  width: 50%;
+  border-style: solid solid none none;
+}
+.columnrt {
+  float: left;
+  width: 50%;
+  border-style: none none solid solid;
+}
+.columnrb {
+  float: left;
+  width: 50%;
+  border-style: solid none none solid;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
