@@ -117,7 +117,6 @@ details > p {
 .column {
   float: left;
   width: 50%;
-  border-style: solid;
 }
 /* Clear floats after the columns */
 .row:after {
