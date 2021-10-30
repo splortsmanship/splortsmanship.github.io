@@ -51,7 +51,10 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   color: #ffffff
 }
-
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff
+}
 a {
   color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
