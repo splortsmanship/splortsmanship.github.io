@@ -114,6 +114,12 @@ details > p {
   padding: 4px;
   margin: 0;
 }
+details > ul {
+  background-color: #ffffff;
+}
+details > a {
+  color: #162B32;
+}
 .column {
   float: left;
   width: 50%;
