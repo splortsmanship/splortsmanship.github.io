@@ -2,6 +2,7 @@ body {
   font-family: Arial;
   padding: 20px;
   background-color: #0E0B16;
+  text-color: #E7DFDD;
 }
 .header {
   padding: 30px;
@@ -22,6 +23,12 @@ body {
   background-color: #4717F6;
   width: 100%;
   padding: 20px;
+}
+.card {
+  background-color: #E7DFDD;
+  text-color: #000000;
+  padding: 20px;
+  margin-top: 20px;
 }
 .row:after {
   content: "";
