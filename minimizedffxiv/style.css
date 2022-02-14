@@ -1,15 +1,15 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background-color: #0E0B16;
-  text-color: #E7DFDD;
+  background-color: #E7DFDD;
+  text-color: #9DAAF2;
 }
 .header {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background-color: #A239CA;
-  text-color: #E7DFDD;
+  background-color: #1A2238;
+  text-color: #9DAAF2;
 }
 .row {
   display: flex;
@@ -24,8 +24,8 @@ body {
   padding-left: 20px;
 }
 .card {
-  background-color: #E7DFDD;
-  text-color: #000000;
+  background-color: #1A2238;
+  text-color: #9DAAF2;
   padding: 20px;
   margin-top: 20px;
 }
@@ -37,8 +37,15 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #4717F6;
+  background: #1A2238;
   margin-top: 20px;
+  text-color: #9DAAF2;
+}
+h2, h3 {
+  text-color: #FF6A3D
+}
+h5 {
+  text-color: #F4DB7D;
 }
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {
