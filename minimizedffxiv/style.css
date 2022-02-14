@@ -40,10 +40,10 @@ body {
   margin-top: 20px;
   text-color: #9DAAF2;
 }
-h2, h3 {
+h2 {
   color: #FF6A3D
 }
-h5 {
+h5, h3 {
   color: #F4DB7D;
 }
 p {
