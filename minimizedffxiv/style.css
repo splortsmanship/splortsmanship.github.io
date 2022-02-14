@@ -36,4 +36,13 @@ body {
     margin: 0;
     padding: 14px;
   }
+h1 {
+  display: block;
+  text-align: center;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #E7DFDD;
+  background-color: #A239CA;
+  border-radius: 5px;
+  }
 
