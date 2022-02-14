@@ -42,10 +42,10 @@ body {
   text-color: #9DAAF2;
 }
 h2, h3 {
-  text-color: #FF6A3D
+  color: #FF6A3D
 }
 h5 {
-  text-color: #F4DB7D;
+  color: #F4DB7D;
 }
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {
