@@ -55,3 +55,9 @@ color: #9DAAF2;
     padding: 0;
   }
 }
+a {
+  color: #FF6A3D;
+}
+a:hover {
+  color: #F4DB7D;
+}
