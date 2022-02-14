@@ -1,53 +1,42 @@
 body {
+  font-family: Arial;
+  padding: 20px;
   background-color: #0E0B16;
 }
-.info {
-  margin: auto;
-  width: 80%;
-  padding: 10px;
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background-color: #A239CA;
 }
-.topnav {
-  overflow: hidden;
-  background-color: #0E0B16;
-}
-.topnav a {
+.leftcolumn {
   float: left;
-  display: block;
-  color: #E7DFDD;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+  width: 75%;
 }
-.topnav a:hover {
-  background-color: #A239CA;
-  color: #E7DFDD;
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
 }
-.topnav a.active {
+.image {
   background-color: #4717F6;
-  color: #E7DFDD;
+  width: 100%;
+  padding: 20px;
 }
-@media screen and (max-width: 600px) {
-  .topnav a, .topnav input[type=text], .search-container button {
-    float: none;
-    display: block;
-    text-align: left;
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #4717F6;
+  margin-top: 20px;
+}
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
     width: 100%;
-    margin: 0;
-    padding: 14px;
+    padding: 0;
   }
-h1 {
-  display: block;
-  text-align: center;
-  margin: auto;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #E7DFDD;
-  background-color: #A239CA;
-  border-radius: 5px;
-  }
-h5 {
-  text-align: center;
-  margin: auto;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #E7DFDD;
-  }
+}
