@@ -61,3 +61,9 @@ a {
 a:hover {
   color: #F4DB7D;
 }
+.tag a {
+  color: #F4DB7D;
+}
+.tag a:hover {
+  color: #FF6A3D
+}
