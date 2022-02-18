@@ -70,3 +70,6 @@ a:hover {
 .tag {
   font-style: italic;
 }
+.important {
+  color: #F4DB7D;
+}
