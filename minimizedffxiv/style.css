@@ -77,3 +77,12 @@ a:hover {
 .section {
   color: #FF6A3D;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  text-align: center;
+}
