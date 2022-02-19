@@ -89,3 +89,7 @@ a:hover {
 figcaption {
   color: #9DAAF2
 }
+.icon {
+  height: 50px;
+  width: 50px;
+}
