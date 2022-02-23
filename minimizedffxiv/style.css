@@ -97,6 +97,7 @@ figcaption {
   background-color: #F4DB7D;
   padding: 20px;
   margin-top: 20px;
+  width: 75%;
 }
 .infobox > p {
   color: #1A2238
