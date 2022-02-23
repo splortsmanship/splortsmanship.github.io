@@ -93,3 +93,16 @@ figcaption {
   height: 50px;
   width: 50px;
 }
+.infobox {
+  background-color: #F4DB7D;
+  padding: 20px;
+  margin-top: 20px;
+}
+.infobox > p {
+  color: #1A2238
+}
+.infotitle {
+  color: #FF6A3D;
+  font-weight: bold;
+}
+  
