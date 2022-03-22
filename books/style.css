@@ -23,7 +23,7 @@ body {
   padding-left: 20px;
 }
 .card {
-  background-color: #1A2238;
+  background-color: #a0aecd;
   text-color: #9DAAF2;
   padding: 20px;
   margin-top: 20px;
@@ -47,7 +47,7 @@ h5, h3, h6 {
   color: #F4DB7D;
 }
 p {
-color: #9DAAF2;
+color: #000000;
 }
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {
