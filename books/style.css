@@ -7,7 +7,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background-color: #1A2238;
+  background-color: #000000;
   text-color: #9DAAF2;
 }
 .row {
@@ -41,7 +41,7 @@ body {
   text-color: #9DAAF2;
 }
 h2 {
-  color: #FF6A3D
+  color: #a0aecd;
 }
 h5, h3, h6 {
   color: #F4DB7D;
