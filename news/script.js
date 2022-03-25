@@ -1,1 +1,0 @@
-$('del').lettering('words')
