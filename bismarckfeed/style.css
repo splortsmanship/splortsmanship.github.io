@@ -1,0 +1,13 @@
+body {
+  background-color: #f4f4f4;
+  font-size: 1rem;
+  color: #222;
+}
+.navcontainer {
+  background-color: #ffffff;
+  position: relative;
+}
+.navitems {
+  font-family: Proxima Nova,Helvetica,Arial,sans-serif;
+}
+  
