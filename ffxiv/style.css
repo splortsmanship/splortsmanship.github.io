@@ -3,7 +3,7 @@ body {
   font-family: sans-serif;
   padding: 20px;
 }
-menu {
+.menu {
   width: 80%;
   background-color: #CDF7F6;
   margin-left: auto;
