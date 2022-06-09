@@ -26,3 +26,8 @@ h1, h2, p {
 a {
   color: #F15025;
 }
+hr {
+  height: 2px;
+  background-color: black;
+  border-color: black;
+}
