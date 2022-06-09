@@ -5,7 +5,7 @@ body {
 }
 menu {
   width: 80%;
-  background-color: #95A3B3;
+  background-color: #CDF7F6;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
@@ -22,4 +22,7 @@ h2 {
 h1, h2, p {
   text-align: center;
   color: #000000;
+}
+a {
+  color: #F15025;
 }
